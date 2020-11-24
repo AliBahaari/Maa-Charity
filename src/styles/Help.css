@@ -1,0 +1,80 @@
+.help {
+  margin: 60px;
+  display: flex;
+}
+
+.help .text {
+  flex-basis: 60%;
+  margin-left: 60px;
+  padding: 24px;
+  font-size: 14px;
+  background-color: rgba(19, 15, 64, 0.04);
+  border-radius: 6px;
+}
+
+.help .text h2 {
+  font-size: 24px;
+  position: relative;
+  margin-right: 30px;
+  margin-bottom: 8px;
+}
+
+.help .text h2::before {
+  content: "";
+  width: 16px;
+  height: 4px;
+  background-color: #4A2545;
+  position: absolute;
+  top: calc(50% - 2px);
+  left: calc(100% + 10px);
+}
+
+.help .image {
+  flex-basis: 40%;
+}
+
+.help .image img {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+@media only screen and (max-width: 1000px) {
+  .help {
+    margin: 40px 20px;
+  }
+  .help .text {
+    margin-left: 40px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .help {
+    margin: 30px 10px;
+  }
+  .help .text {
+    margin-left: 20px;
+    font-size: 12px;
+  }
+  .help .text h2 {
+    font-size: 18px;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .help {
+    flex-direction: column-reverse;
+  }
+  .help .image {
+    margin: 20px 0 40px 0;
+    flex-basis: auto;
+  }
+  .help .image img {
+    width: 60%;
+  }
+  .help .text {
+    margin-left: 0;
+    margin-bottom: 40px;
+    flex-basis: auto;
+  }
+}
