@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Maa-Charity/static/css/main.9d973b26.chunk.css",
+    "main.js": "/Maa-Charity/static/js/main.cae941d1.chunk.js",
+    "main.js.map": "/Maa-Charity/static/js/main.cae941d1.chunk.js.map",
+    "runtime-main.js": "/Maa-Charity/static/js/runtime-main.c56fa2a7.js",
+    "runtime-main.js.map": "/Maa-Charity/static/js/runtime-main.c56fa2a7.js.map",
+    "static/js/2.de695654.chunk.js": "/Maa-Charity/static/js/2.de695654.chunk.js",
+    "static/js/2.de695654.chunk.js.map": "/Maa-Charity/static/js/2.de695654.chunk.js.map",
+    "static/js/3.527b87e7.chunk.js": "/Maa-Charity/static/js/3.527b87e7.chunk.js",
+    "static/js/3.527b87e7.chunk.js.map": "/Maa-Charity/static/js/3.527b87e7.chunk.js.map",
+    "index.html": "/Maa-Charity/index.html",
+    "static/css/main.9d973b26.chunk.css.map": "/Maa-Charity/static/css/main.9d973b26.chunk.css.map",
+    "static/js/2.de695654.chunk.js.LICENSE.txt": "/Maa-Charity/static/js/2.de695654.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Maa-Charity/static/media/IRANSansWeb_UltraLight.fd1af53a.eot",
+    "static/media/image-1.121614d7.svg": "/Maa-Charity/static/media/image-1.121614d7.svg",
+    "static/media/image-2.58ba5127.svg": "/Maa-Charity/static/media/image-2.58ba5127.svg",
+    "static/media/image-3.65d34924.svg": "/Maa-Charity/static/media/image-3.65d34924.svg",
+    "static/media/instagram.d034a7f8.svg": "/Maa-Charity/static/media/instagram.d034a7f8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c56fa2a7.js",
+    "static/js/2.de695654.chunk.js",
+    "static/css/main.9d973b26.chunk.css",
+    "static/js/main.cae941d1.chunk.js"
+  ]
+}
