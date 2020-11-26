@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Maa-Charity/static/css/main.9d973b26.chunk.css",
-    "main.js": "/Maa-Charity/static/js/main.a1251df6.chunk.js",
-    "main.js.map": "/Maa-Charity/static/js/main.a1251df6.chunk.js.map",
+    "main.js": "/Maa-Charity/static/js/main.e2ff33d2.chunk.js",
+    "main.js.map": "/Maa-Charity/static/js/main.e2ff33d2.chunk.js.map",
     "runtime-main.js": "/Maa-Charity/static/js/runtime-main.c56fa2a7.js",
     "runtime-main.js.map": "/Maa-Charity/static/js/runtime-main.c56fa2a7.js.map",
     "static/js/2.9608db28.chunk.js": "/Maa-Charity/static/js/2.9608db28.chunk.js",
@@ -16,12 +16,13 @@
     "static/media/image-1.121614d7.svg": "/Maa-Charity/static/media/image-1.121614d7.svg",
     "static/media/image-2.58ba5127.svg": "/Maa-Charity/static/media/image-2.58ba5127.svg",
     "static/media/image-3.65d34924.svg": "/Maa-Charity/static/media/image-3.65d34924.svg",
-    "static/media/instagram.d034a7f8.svg": "/Maa-Charity/static/media/instagram.d034a7f8.svg"
+    "static/media/instagram.d034a7f8.svg": "/Maa-Charity/static/media/instagram.d034a7f8.svg",
+    "static/media/maa-charity-logo.bb68fcf9.svg": "/Maa-Charity/static/media/maa-charity-logo.bb68fcf9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c56fa2a7.js",
     "static/js/2.9608db28.chunk.js",
     "static/css/main.9d973b26.chunk.css",
-    "static/js/main.a1251df6.chunk.js"
+    "static/js/main.e2ff33d2.chunk.js"
   ]
 }
