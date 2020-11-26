@@ -7,7 +7,7 @@ import { Link, NavLink } from 'react-router-dom';
 import '../styles/Navbar.css';
 
 // Images
-import MaaCharityLogo from '../images/maa-charity-logo.png';
+import MaaCharityLogo from '../images/maa-charity-logo.svg';
 
 class Navbar extends Component {
   render() {

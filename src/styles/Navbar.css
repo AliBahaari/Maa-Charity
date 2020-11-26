@@ -69,8 +69,12 @@
 }
 
 @media only screen and (max-width: 650px) {
+  .navbar {
+    flex-direction: column;
+    align-items: center;
+  }
   .navbar .logo-anchor {
-    display: none;
+    margin: 10px 0 2px 0;
   }
   .navbar ul {
     width: 100%;
@@ -91,5 +95,9 @@
     flex-direction: column;
     flex-wrap: nowrap;
     align-items: center;
+    margin: 2px 0 10px 0;
+  }
+  .navbar ul li {
+    margin: 2px 0;
   }
 }

@@ -71,11 +71,14 @@
 }
 
 html {
-  direction: rtl;
+	direction: rtl;
+	position: relative;
+	min-height: 100%;
 }
 
 body {
-  font-family: IRANSans;
+	font-family: IRANSans;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	-moz-osx-font-smoothing: grayscale;
+	margin-bottom: 100px;
 }
