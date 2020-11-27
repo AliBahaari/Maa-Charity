@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Maa-Charity/static/css/main.c0995efc.chunk.css",
+    "main.css": "/Maa-Charity/static/css/main.e21a38b9.chunk.css",
     "main.js": "/Maa-Charity/static/js/main.e2ff33d2.chunk.js",
     "main.js.map": "/Maa-Charity/static/js/main.e2ff33d2.chunk.js.map",
     "runtime-main.js": "/Maa-Charity/static/js/runtime-main.c56fa2a7.js",
@@ -10,7 +10,7 @@
     "static/js/3.527b87e7.chunk.js": "/Maa-Charity/static/js/3.527b87e7.chunk.js",
     "static/js/3.527b87e7.chunk.js.map": "/Maa-Charity/static/js/3.527b87e7.chunk.js.map",
     "index.html": "/Maa-Charity/index.html",
-    "static/css/main.c0995efc.chunk.css.map": "/Maa-Charity/static/css/main.c0995efc.chunk.css.map",
+    "static/css/main.e21a38b9.chunk.css.map": "/Maa-Charity/static/css/main.e21a38b9.chunk.css.map",
     "static/js/2.9608db28.chunk.js.LICENSE.txt": "/Maa-Charity/static/js/2.9608db28.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Maa-Charity/static/media/IRANSansWeb_UltraLight.fd1af53a.eot",
     "static/media/image-1.121614d7.svg": "/Maa-Charity/static/media/image-1.121614d7.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.c56fa2a7.js",
     "static/js/2.9608db28.chunk.js",
-    "static/css/main.c0995efc.chunk.css",
+    "static/css/main.e21a38b9.chunk.css",
     "static/js/main.e2ff33d2.chunk.js"
   ]
 }
