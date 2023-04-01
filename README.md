@@ -1,3 +1,3 @@
 # Maa Charity
 
-"Maa Charity" repository is a starter website for charities are going to be established.
+"Maa Charity" repository is a starter website for charities going to be established.
